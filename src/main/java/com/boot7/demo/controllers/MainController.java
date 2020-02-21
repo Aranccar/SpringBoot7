@@ -78,5 +78,4 @@ public class MainController {
         modelAndView.setViewName("user");
         return modelAndView;
     }
-
 }
